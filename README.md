@@ -29,8 +29,8 @@ Solution: Added a “Student Login” item to the main navigation to reduce clic
 
 **2. Login Page**
 
-Issue: New students lacked clear guidance after login.
-Solution: Added a line: “No account? Learn more here,” linking to the Bachelor/Master Thesis page to help students understand the process.
+Issue: New students lacked clear guidance in case of clicking login.
+Solution: Added a line: “No account? Read about us here,” linking to the Bachelor/Master Thesis page to help students understand the process.
 
 **3. Post-Login Navigation**
 
@@ -94,10 +94,15 @@ To measure the effectiveness of these improvements:
 3. Collect feedback on clarity of seminar calendar
 4. Run A/B tests with old vs redesigned pages
 
+<img width="1743" height="869" alt="image" src="https://github.com/user-attachments/assets/c1958938-e757-4073-a273-df0df30f5456" />
+<img width="1588" height="843" alt="image" src="https://github.com/user-attachments/assets/c0e0ed5d-129c-463b-9ec2-50a737a1d01c" />
+<img width="1652" height="861" alt="image" src="https://github.com/user-attachments/assets/77334a02-2469-4e9d-b863-499e089cae8a" />
+<img width="1722" height="866" alt="image" src="https://github.com/user-attachments/assets/a98c98b4-f331-4431-90a8-79d0468d7003" />
+
 ## Tools Used
 
 - Figma (UI/UX design and prototyping)
-- Excel (for structuring and analyzing metrics)
+- Excel/Python (for structuring and analyzing metrics)
 - GitHub (project documentation)
 
 ## Key Takeaway
