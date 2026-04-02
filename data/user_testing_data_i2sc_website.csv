@@ -1,0 +1,19 @@
+user_id,version,task,success,time_sec,clicks,difficulty,comment
+1,before,login,1,50,4,4,couldn't find login at first
+1,before,resources,0,130,8,5,"unable to find resources, high frustration"
+1,before,seminar,0,56,3,3,not sure which date is next since today is not highlighted
+2,before,login,1,37,5,3,found it but not obvious
+2,before,resources,0,80,6,5,confusing navigation
+2,before,seminar,1,45,3,4,found it but was confused between two seminars
+3,before,login,0,62,4,4,had to click multiple pages
+3,before,resources,1,100,4,5,not intuitive
+3,before,seminar,1,35,3,2,could find next seminar since they just checked today's date
+1,after,login,1,6,1,1,very easy to find
+1,after,resources,1,10,2,2,much faster
+1,after,seminar,1,8,2,2,clear dates now
+2,after,login,1,5,1,1,obvious location
+2,after,resources,1,12,2,2,easy access
+2,after,seminar,1,7,2,2,easier to read
+3,after,login,1,7,1,2,straightforward
+3,after,resources,1,11,2,2,improved a lot
+3,after,seminar,1,6,1,1,very clear
